@@ -31,7 +31,7 @@
 **Copy the link** tap "Share" (the arrow button on top of a chosen video), and then tap "**Copy link**"
 **Download** go back to SSS TikTok and paste the link in the text field on the page and tap on the "**Download**" button
 
-<a href="https://ssstt.app/">Go Tiktok Downloader</a>
+<a href="https://ssstt.app/">Tiktok Downloader</a>
 
 <p align="right"><a href="https://ssstt.app/">Go Tiktok Downloader</a></p>
 
