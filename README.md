@@ -17,7 +17,7 @@
     <li><a href="#report-a-bug">Report a Bug</a></li>
   </ol>
 </details>
-<details>
+
 
   ### TIKTOK DOWNLOADER
 
@@ -25,9 +25,17 @@
 
 <img src="https://github.com/ssinsta/tiktok-downloader/blob/master/tiktok%20downloader-sssttapp.png" width="800" height="600">
 
-</details>
+## How to download TikTok without watermark? With ssstt.app
+
+**Find**a TikTok play a video that you want to save to your mobile device, using the **TikTok app**
+**Copy the link** tap "Share" (the arrow button on top of a chosen video), and then tap "**Copy link**"
+**Download** go back to SSS TikTok and paste the link in the text field on the page and tap on the "**Download**" button
+
+<p align="right"><a href="(https://ssstt.app/)">Go Tiktok Downloader</a></p>
+
 
 ### Built With
+
 C# and Microsoft Playwright
 
 <img src="https://github.com/Jettcodey/TikTok-Downloader/assets/163922510/aca578ae-4c24-490f-96f2-4c19a16fe9e6" width="64" height="64">
