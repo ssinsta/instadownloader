@@ -1,4 +1,4 @@
-# TikTok Downloader
+# INSTAGRAM Downloader
 <!-- # ⚠ THE APPLICATION ISN'T WORKING RIGHT NOW DUE TO RECENT TIKTOK API UPDATES ⚠ -->
 
 <!-- TABLE OF CONTENTS -->
@@ -19,7 +19,7 @@
 </details>
 
 
-  ### TIKTOK DOWNLOADER
+  ### INSTAGRAM DOWNLOADER
 
 <p> ssstt.app is a free tool helping you to download TikTok videos (formerly Musically) without watermarks online. Save TikTok video with the best quality in an MP4 file format with HD resolution. To find out how to use the TikTok video downloader, follow the instructions below. It’s simple process - you can download TikTok without watermark video in just three easy steps.</p>
 
@@ -31,9 +31,9 @@
 **Copy the link** tap "Share" (the arrow button on top of a chosen video), and then tap "**Copy link**"
 **Download** go back to SSS TikTok and paste the link in the text field on the page and tap on the "**Download**" button
 
-<a href="https://ssstt.app/">Tiktok Downloader</a>
+<a href="https://ssinsta.io/">INSTAGRAM Downloader</a>
 
-<p align="right"><a href="https://ssstt.app/">Go Tiktok Downloader</a></p>
+<p align="right"><a href="https://ssinsta.io/">Go INSTA Downloader</a></p>
 
 
 ### Built With
